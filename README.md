@@ -12,4 +12,4 @@ Display current time with seconds.
 
 HTML: Provides the structure of the web page.\
 CSS: Handles the styling and layout of the clock interface.\
-JavaScript: Implements the functionality of the alarm clock.\
+JavaScript: Implements the functionality of the alarm clock.
